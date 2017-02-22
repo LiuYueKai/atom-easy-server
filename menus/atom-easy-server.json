@@ -1,0 +1,10 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "view in server",
+        "command": "atom-easy-server:view"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-s": "atom-easy-server:start-3000",
+    "ctrl-alt-4": "atom-easy-server:start-4000",
+    "ctrl-alt-5": "atom-easy-server:start-5000",
+    "ctrl-alt-8": "atom-easy-server:start-8000",
+    "ctrl-alt-9": "atom-easy-server:start-9000",
+    "ctrl-alt-l": "atom-easy-server:startServer",
+    "ctrl-alt-q": "atom-easy-server:stopServer"
+  }
+}

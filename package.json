@@ -1,0 +1,19 @@
+{
+  "name": "atom-easy-server",
+  "version": "1.0.0",
+  "description": "基于atom-live-server，增加右键功能view in server可直接在浏览器中打开工程下当前文件",
+  "main": "./lib/atom-easy-server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "atom",
+    "server"
+  ],
+  "author": "liuyuekai",
+  "license": "MIT",
+  "dependencies": {
+    "json5": "^0.5.1",
+    "live-server": "^1.2.0"
+  }
+}
