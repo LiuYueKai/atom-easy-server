@@ -15,3 +15,4 @@ $ npm install
 将整个工程拷贝至atom包管理路径下
 
 * mac下路径为当前user下的.atom/packages
+如果atom已经打开则执行 control + option + command + l 来刷新atom
