@@ -8,16 +8,17 @@
 
 [English Document](https://github.com/LiuYueKai/atom-easy-server)
 
-Based on the atom-live-server, increase the right-click function view in server can be directly in the browser to open the project under the current file
+基于atom-live-server，增加右键功能view in server可直接在浏览器中打开工程下当前文件
 
-# Usage
+# 如何使用
 
+下载资源
 
 ```
 $ git clone git@github.com:LiuYueKai/atom-easy-server.git
 $ npm install
 ```
 
-Copy the entire project to the atom package management path
+将整个工程拷贝至atom包管理路径下
 
-* Mac under the current user under the .atom / packages. If the atom is already open, execute control + option + command + l to refresh the atom
+* mac下路径为当前user下的.atom/packages。如果atom已经打开则执行 control + option + command + l 来刷新atom
