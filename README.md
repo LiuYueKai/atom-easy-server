@@ -6,7 +6,7 @@
 [![devDependency Status](https://img.shields.io/david/dev/LiuYueKai/atom-easy-server.svg)](https://david-dm.org/LiuYueKai/atom-easy-server#info=devDependencies)
 [![NPM downloads](http://img.shields.io/npm/dm/atom-easy-server.svg?style=flat)](https://npmjs.org/package/atom-easy-server)
 
-[中文文档](https://github.com/LiuYueKai/easy-template/blob/master/README_CN.md)
+[中文文档](https://github.com/LiuYueKai/atom-easy-server/blob/master/README_CN.md)
 
 Based on the atom-live-server, increase the right-click function view in server can be directly in the browser to open the project under the current file
 
